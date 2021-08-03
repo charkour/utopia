@@ -71,6 +71,16 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Akaya Kanadaka',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Akaya Telivigala',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Akronim',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -110,6 +120,8 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
@@ -331,6 +343,22 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Andada Pro',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Andika',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -386,6 +414,19 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Antonio',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Arapey',
     variants: [
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
@@ -411,6 +452,12 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     type: 'google-fonts-typeface',
     name: 'Archivo',
     variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
@@ -419,6 +466,10 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'italic' },
     ],
   },
   {
@@ -600,6 +651,16 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Atkinson Hyperlegible',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Atma',
     variants: [
       { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
@@ -732,6 +793,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
     ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Ballet',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
     type: 'google-fonts-typeface',
@@ -1040,6 +1106,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Benne',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Bentham',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -1252,8 +1323,35 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Bodoni Moda',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Bokor',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Bona Nova',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+    ],
   },
   {
     type: 'google-fonts-typeface',
@@ -1284,6 +1382,20 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     type: 'google-fonts-typeface',
     name: 'Bree Serif',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Brygada 1918',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+    ],
   },
   {
     type: 'google-fonts-typeface',
@@ -2143,6 +2255,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Dela Gothic One',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Delius',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -2241,6 +2358,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
     ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'DotGothic16',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
     type: 'google-fonts-typeface',
@@ -2383,6 +2505,21 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'Encode Sans Expanded',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Encode Sans SC',
     variants: [
       { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
@@ -2653,6 +2790,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Festive',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Finger Paint',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -2807,6 +2949,30 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Fraunces',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Freckle Face',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -2843,6 +3009,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'Fugaz One',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Fuggles',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -2952,6 +3123,30 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Georama',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Geostar',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -3052,6 +3247,19 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'Goudy Bookletter 1911',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Gowun Batang',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Gowun Dodum',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -3179,6 +3387,26 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     type: 'google-fonts-typeface',
     name: 'Habibi',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Hachi Maru Pop',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Hahmlet',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+    ],
   },
   {
     type: 'google-fonts-typeface',
@@ -3520,6 +3748,21 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     type: 'google-fonts-typeface',
     name: 'Iceland',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Imbue',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+    ],
   },
   {
     type: 'google-fonts-typeface',
@@ -3906,6 +4149,15 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Karantina',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Karla',
     variants: [
       { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
@@ -4011,6 +4263,15 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     type: 'google-fonts-typeface',
     name: 'Kite One',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Kiwi Maru',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+    ],
   },
   {
     type: 'google-fonts-typeface',
@@ -4275,6 +4536,19 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Lexend',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
     ],
   },
   {
@@ -5049,6 +5323,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'MonteCarlo',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Montez',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -5320,10 +5599,35 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'New Tegomin',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'News Cycle',
     variants: [
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Newsreader',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
     ],
   },
   {
@@ -5638,6 +5942,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Oi',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Old Standard TT',
     variants: [
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
@@ -5718,6 +6027,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Orelega One',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Orienta',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -5737,6 +6051,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
     ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Otomanopee One',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
     type: 'google-fonts-typeface',
@@ -5908,6 +6227,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
     ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Palette Mosaic',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
     type: 'google-fonts-typeface',
@@ -6194,6 +6518,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Potta One',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Pragati Narrow',
     variants: [
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
@@ -6319,6 +6648,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'Purple Purse',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Qahiri',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -6486,10 +6820,15 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     name: 'Rasa',
     variants: [
       { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
     ],
   },
   {
@@ -6560,11 +6899,21 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'Reem Kufi',
-    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+    ],
   },
   {
     type: 'google-fonts-typeface',
     name: 'Reenie Beanie',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Reggae One',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -6670,6 +7019,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'Rock Salt',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'RocknRoll One',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -6825,6 +7179,25 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'STIX Two Math',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'STIX Two Text',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Sacramento',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -6846,14 +7219,23 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     name: 'Saira',
     variants: [
       { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'italic' },
     ],
   },
   {
@@ -7114,6 +7496,28 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     type: 'google-fonts-typeface',
     name: 'Share Tech Mono',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Shippori Mincho',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Shippori Mincho B1',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+    ],
   },
   {
     type: 'google-fonts-typeface',
@@ -7498,6 +7902,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Stick',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Stint Ultra Condensed',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -7517,6 +7926,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'Strait',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Style Script',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -7835,7 +8249,36 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Tourney',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'italic' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Trade Winds',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Train One',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -7892,6 +8335,21 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Truculenta',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 100, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 200, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 800, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 900, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Trykker',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -7940,6 +8398,11 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
     ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Uchen',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
     type: 'google-fonts-typeface',
@@ -8145,6 +8608,14 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'WindSong',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Wire One',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
@@ -8231,14 +8702,29 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   },
   {
     type: 'google-fonts-typeface',
+    name: 'Yomogi',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
     name: 'Yrsa',
     variants: [
       { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 300, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 500, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 600, webFontStyle: 'italic' },
       { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 700, webFontStyle: 'italic' },
     ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Yusei Magic',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
     type: 'google-fonts-typeface',
@@ -8253,6 +8739,24 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
   {
     type: 'google-fonts-typeface',
     name: 'ZCOOL XiaoWei',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Zen Dots',
+    variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Zen Loop',
+    variants: [
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' },
+      { type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'italic' },
+    ],
+  },
+  {
+    type: 'google-fonts-typeface',
+    name: 'Zen Tokyo Zoo',
     variants: [{ type: 'web-font-variant', webFontWeight: 400, webFontStyle: 'normal' }],
   },
   {
@@ -8290,3 +8794,4 @@ export const googleFontsList: Array<GoogleFontsTypeface> = [
     ],
   },
 ]
+
